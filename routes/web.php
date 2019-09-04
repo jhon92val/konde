@@ -12,3 +12,4 @@
 */
 
 Route::get('/' , 'InicioController@index')->name('inicio');
+Route::get('/portafolio-item' , 'PortafolioController@index')->name('portafolio-item');

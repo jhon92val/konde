@@ -60,8 +60,8 @@
 		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyA0rANX07hh6ASNKdBr4mZH0KZSqbHYc3Q"></script>
 		<script src="assets/js/plugins.min.js"></script>
 		<script src="assets/js/custom.min.js"></script>
-		<!-- Color Switcher (Remove these lines)-->
-		<script src="assets/js/style-switcher.min.js"></script>
+		<!-- Color Switcher (Remove these lines)
+		<script src="assets/js/style-switcher.min.js"></script>-->
 	</body>
 
 </html>
